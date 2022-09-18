@@ -1,7 +1,7 @@
 # Demo Flask
 
 ## Dependencies
-You may need to install [sqlcipher](https://www.zetetic.net/sqlcipher/open-source/)
+You may need to install [sqlcipher](https://www.zetetic.net/sqlcipher/open-source/).
 
 To install required dependencies you need to use `pip3 install -r requirements.txt` on project directory.
 
