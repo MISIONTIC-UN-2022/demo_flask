@@ -3,7 +3,11 @@
 ## Dependencies
 You may need to install [sqlcipher](https://www.zetetic.net/sqlcipher/open-source/).
 
-To install required dependencies you need to use `pip3 install -r requirements.txt` on the project directory.
+To install the required dependencies, please follow these steps:
+
+1. Open a console.
+2. Go to the project directory (with `cd` command).
+3. Write and execute `pip3 install -r requirements.txt`.
 
 ## Initializate DB
 To run the app, you need to provide a Microsoft account for the app to send/receive emails. To add this account follow these steps:
